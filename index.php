@@ -26,7 +26,7 @@
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
                   <h3>Welcome to</h3>
-                  <h1>THE BANK OF MLH</h1>
+                  <h1>THE BANK OF SPARKS</h1>
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
@@ -62,7 +62,7 @@
       </div>
       <br>
       <footer class="text-center mt-5 py-2">
-        <p>A Project by <b>PHILONA REETHA SEBASTIAN & ADARSH NARAYANAN</b> <br> </p>
+        <p>A Project by <b>VISMAY AGARWAL</b> <br> </p>
       </footer>
      
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
